@@ -11,6 +11,10 @@ body {
     display: flex;
     padding-bottom: 200px;
 }
+.titulo{
+    padding-left: 600px;
+    padding-bottom: 100px;
+}
 
 .Feliz {
     border-radius: 40px;
@@ -27,5 +31,8 @@ h1 {
 }
 
 p {
+    box-sizing: 10px;
+    border: 20px;
+    border: solid;
     padding-top: 20px;
 }
