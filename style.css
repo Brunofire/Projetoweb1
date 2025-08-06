@@ -1,0 +1,31 @@
+body {
+    background: radial-gradient(blue, white);
+
+
+
+
+}
+
+.Header {
+    width: 100px;
+    display: flex;
+    padding-bottom: 200px;
+}
+
+.Feliz {
+    border-radius: 40px;
+    position: relative;
+    
+}
+
+h1 {
+    display: inline-flex;
+    width: 400px;
+    transform: translateY(-100px);
+    padding-left: (100px);
+
+}
+
+p {
+    padding-top: 20px;
+}
